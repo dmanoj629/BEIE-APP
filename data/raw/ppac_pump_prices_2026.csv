@@ -1,0 +1,13 @@
+effective_date,city,fuel_type,price_inr_per_litre,tax_share_pct,quality_status
+2026-02-01,Delhi,Petrol,94.77,41.2,verified
+2026-02-01,Delhi,Diesel,87.67,36.5,verified
+2026-02-01,Bengaluru,Petrol,101.94,43.8,verified
+2026-02-01,Bengaluru,Diesel,88.92,38.1,verified
+2026-05-15,Delhi,Petrol,97.77,40.1,verified
+2026-05-15,Delhi,Diesel,90.67,35.4,verified
+2026-05-15,Bengaluru,Petrol,104.94,42.7,verified
+2026-05-15,Bengaluru,Diesel,91.92,37.0,verified
+2026-06-04,Delhi,Petrol,102.12,38.9,verified
+2026-06-04,Delhi,Diesel,95.20,34.2,verified
+2026-06-04,Bengaluru,Petrol,109.29,41.5,verified
+2026-06-04,Bengaluru,Diesel,96.45,35.8,verified

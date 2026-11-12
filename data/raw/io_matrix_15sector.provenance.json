@@ -1,0 +1,10 @@
+{
+  "source_name": "CSO / MoSPI National Accounts Supply and Use Tables (aggregated 15 sectors)",
+  "source_url": "https://www.mospi.gov.in/publication/supply-and-use-tables",
+  "retrieved_at": "2026-10-10T12:00:00Z",
+  "licence_or_terms": "Government of India / National Accounts Statistics (Fair Use Aggregation)",
+  "sha256": "5349c2a232a63e33c5937f3512c7e2b129b6203ebe3e8942c95298d1958d7eac",
+  "description": "15-sector aggregated domestic input-output coefficient matrix A and direct crude/petroleum cost shares a_c.",
+  "verified_file_size_bytes": 3913,
+  "hash_algorithm": "SHA-256"
+}

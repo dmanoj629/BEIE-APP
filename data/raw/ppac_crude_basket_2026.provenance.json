@@ -1,0 +1,10 @@
+{
+  "source_name": "Petroleum Planning & Analysis Cell (PPAC)",
+  "source_url": "https://ppac.gov.in/prices/indian-crude-basket",
+  "retrieved_at": "2026-10-15T10:00:00Z",
+  "licence_or_terms": "Ministry of Petroleum & Natural Gas Public Data",
+  "sha256": "ac22ee3c074f1173085da85cfa3251026ffe94e99f4a2a390f46df9a9bb65e87",
+  "description": "Monthly Indian Crude Basket Price in USD/bbl and INR/bbl with exchange rates.",
+  "verified_file_size_bytes": 406,
+  "hash_algorithm": "SHA-256"
+}

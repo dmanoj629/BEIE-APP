@@ -1,0 +1,10 @@
+{
+  "source_name": "PPAC / IOCL Daily Price Notifications",
+  "source_url": "https://ppac.gov.in/retail-selling-price-petrol-diesel",
+  "retrieved_at": "2026-10-15T10:00:00Z",
+  "licence_or_terms": "Ministry of Petroleum & Natural Gas Public Data",
+  "sha256": "d82ebfeed5370b4fcff4c405583e148b50fc3574b531b156d8487af4ac0d4179",
+  "description": "Retail selling prices for Petrol and Diesel in Delhi and Bengaluru.",
+  "verified_file_size_bytes": 635,
+  "hash_algorithm": "SHA-256"
+}

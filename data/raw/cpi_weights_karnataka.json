@@ -1,0 +1,15 @@
+{
+  "location": "Karnataka",
+  "base_year": "2024",
+  "divisions": [
+    {"code": "1", "name": "Food and Beverages", "weight": 41.50, "fuel_sensitivity": 0.08},
+    {"code": "2", "name": "Pan, Tobacco and Intoxicants", "weight": 2.20, "fuel_sensitivity": 0.02},
+    {"code": "3", "name": "Clothing and Footwear", "weight": 5.80, "fuel_sensitivity": 0.05},
+    {"code": "4", "name": "Housing", "weight": 11.20, "fuel_sensitivity": 0.03},
+    {"code": "5", "name": "Fuel and Light", "weight": 7.30, "fuel_sensitivity": 0.75},
+    {"code": "6", "name": "Miscellaneous (Transport, Health, Education)", "weight": 32.00, "fuel_sensitivity": 0.28}
+  ],
+  "transport_subweight_in_misc": 8.60,
+  "lpg_kerosene_subweight_in_fuel": 3.80,
+  "petrol_diesel_direct_weight": 2.80
+}

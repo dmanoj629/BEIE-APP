@@ -1,0 +1,12 @@
+[
+  {"month": "2026-01", "location": "All-India", "cpi_index": 103.10, "cpi_inflation": 3.10, "food_inflation": 4.12, "fuel_inflation": 1.20, "quality_status": "final"},
+  {"month": "2026-02", "location": "All-India", "cpi_index": 103.45, "cpi_inflation": 3.21, "food_inflation": 4.25, "fuel_inflation": 1.30, "quality_status": "final"},
+  {"month": "2026-03", "location": "All-India", "cpi_index": 104.10, "cpi_inflation": 3.40, "food_inflation": 4.60, "fuel_inflation": 1.45, "quality_status": "final"},
+  {"month": "2026-04", "location": "All-India", "cpi_index": 104.60, "cpi_inflation": 3.48, "food_inflation": 4.70, "fuel_inflation": 1.50, "quality_status": "final"},
+  {"month": "2026-05", "location": "All-India", "cpi_index": 105.80, "cpi_inflation": 3.93, "food_inflation": 5.20, "fuel_inflation": 2.10, "quality_status": "final"},
+  {"month": "2026-06", "location": "All-India", "cpi_index": 107.10, "cpi_inflation": 4.38, "food_inflation": 6.10, "fuel_inflation": 3.40, "quality_status": "final"},
+  {"month": "2026-07", "location": "All-India", "cpi_index": 107.50, "cpi_inflation": 4.45, "food_inflation": 6.30, "fuel_inflation": 3.50, "quality_status": "final"},
+  {"month": "2026-08", "location": "All-India", "cpi_index": 108.40, "cpi_inflation": 4.83, "food_inflation": 6.80, "fuel_inflation": 3.60, "quality_status": "final"},
+  {"month": "2026-09", "location": "All-India", "cpi_index": 109.80, "cpi_inflation": 5.54, "food_inflation": 7.74, "fuel_inflation": 4.10, "quality_status": "provisional"},
+  {"month": "2026-09", "location": "Karnataka", "cpi_index": 109.73, "cpi_inflation": 5.86, "food_inflation": 8.05, "fuel_inflation": 4.30, "quality_status": "provisional"}
+]
