@@ -10,9 +10,17 @@ import sys
 from pathlib import Path
 
 # Add src to python path for module imports
-src_path = str(Path(__file__).resolve().parents[1] / "src")
+
+# Add project root and src to Python path
+project_root = str(Path(__file__).resolve().parents[1])
+src_path = str(Path(project_root) / "src")
+
+if project_root not in sys.path:
+    sys.path.insert(0, project_root)
+
 if src_path not in sys.path:
     sys.path.insert(0, src_path)
+
 
 import streamlit as st
 
